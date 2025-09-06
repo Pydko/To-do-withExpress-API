@@ -25,5 +25,3 @@ This project demonstrates a basic full-stack CRUD application.
 - **Other:** CORS middleware
 
 ---
-
-## 📂 Project Structure
